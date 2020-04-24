@@ -1,3 +1,8 @@
+/*
+ * Author : Imdad Hossain
+ * Created On : 10.03.2020
+ * 
+ */
 * {
   margin: 0px;
   padding: 0px;
@@ -194,11 +199,10 @@ body {
   .sidenav a {font-size: 18px;}
 }
 .sub-title{
-	color: white;
-	background: #877284;
-	text-align: left;
-	border: 1px solid #B0C4DE;
-
+  color: white;
+  background: #877284;
+  text-align: left;
+  border: 1px solid #B0C4DE;
   border-radius: 10px 10px 10px 10px;
   padding: 20px;
 }
@@ -210,5 +214,4 @@ body {
   background: #877284;
   border: none;
   border-radius: 5px;
- pa
 }

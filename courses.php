@@ -1,3 +1,8 @@
+/*
+ * Author : Imdad Hossain
+ * Created On : 10.03.2020
+ * 
+ */
 <?php include('server.php') ?>
 <!DOCTYPE html>
 <html>
@@ -136,10 +141,7 @@ body {
   	<h4>Diploma In Business Level 6</h4>
     </div>
 	<br>
-	
-	
- 
 </div>
-  
+
 </body>
 </html> 
